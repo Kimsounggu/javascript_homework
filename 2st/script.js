@@ -6,9 +6,9 @@ for (let i = 0; i < box.length; i++) {
   });
 }
 
-// function getSquare(number) {
-//   return number * number;
-// }
+function getSquare(number) {
+  return number * number;
+}
 
-// const result = getSquare(5);
-// console.log(result);
+const result = getSquare(5);
+console.log(result);
