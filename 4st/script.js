@@ -17,4 +17,4 @@
 
 fetch("https://jsonplaceholder.typicode.com/posts")
   .then((res) => res.json())
-  .then((Data) => console.log(Date));
+  .then((data) => console.log(data));
